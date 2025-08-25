@@ -1,0 +1,58 @@
+[
+    {
+        "id": "4e5f6a7b-8c9d-4e1f-2a3b-4c5d6e7f8a9e",
+        "text": "Die Zukunft gehört denen, die an die Schönheit ihrer Träume glauben.",
+        "author": "Anne Frank",
+        "category": "future",
+        "language": "DE"
+    },
+    {
+        "id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+        "text": "Jeder Moment ist ein neuer Anfang.",
+        "author": "Johann Wolfgang Von Goethe",
+        "category": "future",
+        "language": "DE"
+    },
+    {
+        "id": "4a5b6c7d-8e9f-4a1b-2c3d-4e5f6a7b8c9d",
+        "text": "Die Zukunft hängt von dem ab, was wir heute tun.",
+        "author": "Anne Frank",
+        "category": "future",
+        "language": "DE"
+    },
+    {
+        "id": "5f6a7b8c-9d0e-4f2a-3b4c-5d6e7f8a9b0y",
+        "text": "Die beste Zeit für einen neuen Anfang ist jetzt.",
+        "author": "Friedrich Nietzsche",
+        "category": "future",
+        "language": "DE"
+    },
+    {
+        "id": "dd4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "category": "future",
+        "language": "EN"
+    },
+    {
+        "id": "bb1a2b3c-4d5e-6f7g-8h9i-0j1k2l3m4n5o",
+        "text": "Every moment is a fresh beginning.",
+        "author": "Oscar Wilde",
+        "category": "future",
+        "language": "EN"
+    },
+    {
+        "id": "117g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+        "text": "The future depends on what we do in the present.",
+        "author": "Mahatma Gandhi",
+        "category": "future",
+        "language": "EN"
+    },
+    {
+        "id": "cc8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+        "text": "The best time for a new beginning is now.",
+        "author": "Dalai Lama",
+        "category": "future",
+        "language": "EN"
+    }
+]
