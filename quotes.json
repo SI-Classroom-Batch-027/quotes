@@ -1,0 +1,38 @@
+[
+{
+        "id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3y",
+        "text": "Liebe heilt alle Wunden.",
+        "author": "Johann Wolfgang Von Goethe",
+        "category": "love",
+        "language": "DE"
+    },
+   {
+        "id": "bb1a2b3c-4d5e-6f7g-8h9i-0j1k2l3m4n5o",
+        "text": "Every moment is a fresh beginning.",
+        "author": "Oscar Wilde",
+        "category": "future",
+        "language": "EN"
+    },
+   {
+        "id": "bb1a2b3c-4d5e-6f7g-8h9i-0j1k2l3m4n5o",
+        "text": "Every moment is a fresh beginning.",
+        "author": "Oscar Wilde",
+        "category": "future",
+        "language": "EN"
+    },
+{
+        "id": "440j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+        "text": "Wisdom begins in wonder.",
+        "author": "Ralph Waldo Emerson",
+        "category": "wisdom",
+        "language": "EN"
+    },
+{
+        "id": "2e1d3c4b-5a6f-4e8d-9c0b-1a2b3c4d5e6f",
+        "text": "Mut ist der erste Schritt zum Erfolg.",
+        "author": "Friedrich Nietzsche",
+        "category": "courage",
+        "language": "DE"
+    }
+]
+]
