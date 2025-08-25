@@ -33,6 +33,69 @@
         "author": "Friedrich Nietzsche",
         "category": "courage",
         "language": "DE"
+    },
+{
+        "id": "5f6a7b8c-9d0e-4f2a-3b4c-5d6e7f8a9b0y",
+        "text": "Die beste Zeit für einen neuen Anfang ist jetzt.",
+        "author": "Friedrich Nietzsche",
+        "category": "future",
+        "language": "DE"
+    },
+{
+        "id": "006f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+        "text": "Learning never exhausts the mind.",
+        "author": "Ralph Waldo Emerson",
+        "category": "education",
+        "language": "EN"
+    },
+{
+        "id": "5f6a7b8c-9d0e-4f2a-3b4c-5d6e7f8a9b0c",
+        "text": "Freundschaft verdoppelt die Freude und halbiert den Kummer.",
+        "author": "Johann Wolfgang Von Goethe",
+        "category": "friendship",
+        "language": "DE"
+    },
+{
+        "id": "ee4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+        "text": "Nothing ventured, nothing gained.",
+        "author": "Mark Twain",
+        "category": "courage",
+        "language": "EN"
+    },
+{
+        "id": "bb3g4h5i-6j7k-8l9m-0n1o-2p3q4r5s6t7u",
+        "text": "Happiness comes to those who laugh.",
+        "author": "Eleanor Roosevelt",
+        "category": "happiness",
+        "language": "EN"
+    },
+{
+        "id": "2a3b4c5d-6e7f-4a9b-0c1d-2e3f4a5b6c7y",
+        "text": "Erfolg ist nicht der Schlüssel zum Glück. Glück ist der Schlüssel zum Erfolg.",
+        "author": "Friedrich Nietzsche",
+        "category": "success",
+        "language": "DE"
+    },
+{
+        "id": "668b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p",
+        "text": "Wisdom doesn't come overnight.",
+        "author": "Confucius",
+        "category": "wisdom",
+        "language": "EN"
+    },
+{
+        "id": "667b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+        "text": "Change is the law of life.",
+        "author": "Mahatma Gandhi",
+        "category": "life",
+        "language": "EN"
+    },
+{
+        "id": "aa2f3g4h-5i6j-7k8l-9m0n-1o2p3q4r5s6t",
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Mahatma Gandhi",
+        "category": "motivation",
+        "language": "EN"
     }
 ]
 
