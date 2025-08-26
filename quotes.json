@@ -1,101 +1,702 @@
 [
-{
-        "id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3y",
-        "text": "Liebe heilt alle Wunden.",
-        "author": "Johann Wolfgang Von Goethe",
-        "category": "love",
-        "language": "DE"
-    },
-   {
-        "id": "bb1a2b3c-4d5e-6f7g-8h9i-0j1k2l3m4n5o",
-        "text": "Every moment is a fresh beginning.",
-        "author": "Oscar Wilde",
-        "category": "future",
-        "language": "EN"
-    },
-   {
-        "id": "bb1a2b3c-4d5e-6f7g-8h9i-0j1k2l3m4n5o",
-        "text": "Every moment is a fresh beginning.",
-        "author": "Oscar Wilde",
-        "category": "future",
-        "language": "EN"
-    },
-{
-        "id": "440j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
-        "text": "Wisdom begins in wonder.",
-        "author": "Ralph Waldo Emerson",
-        "category": "wisdom",
-        "language": "EN"
-    },
-{
-        "id": "2e1d3c4b-5a6f-4e8d-9c0b-1a2b3c4d5e6f",
-        "text": "Mut ist der erste Schritt zum Erfolg.",
-        "author": "Friedrich Nietzsche",
-        "category": "courage",
-        "language": "DE"
-    },
-{
-        "id": "5f6a7b8c-9d0e-4f2a-3b4c-5d6e7f8a9b0y",
-        "text": "Die beste Zeit für einen neuen Anfang ist jetzt.",
-        "author": "Friedrich Nietzsche",
-        "category": "future",
-        "language": "DE"
-    },
-{
-        "id": "006f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
-        "text": "Learning never exhausts the mind.",
-        "author": "Ralph Waldo Emerson",
-        "category": "education",
-        "language": "EN"
-    },
-{
-        "id": "5f6a7b8c-9d0e-4f2a-3b4c-5d6e7f8a9b0c",
-        "text": "Freundschaft verdoppelt die Freude und halbiert den Kummer.",
-        "author": "Johann Wolfgang Von Goethe",
-        "category": "friendship",
-        "language": "DE"
-    },
-{
-        "id": "ee4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
-        "text": "Nothing ventured, nothing gained.",
-        "author": "Mark Twain",
-        "category": "courage",
-        "language": "EN"
-    },
-{
-        "id": "bb3g4h5i-6j7k-8l9m-0n1o-2p3q4r5s6t7u",
-        "text": "Happiness comes to those who laugh.",
-        "author": "Eleanor Roosevelt",
-        "category": "happiness",
-        "language": "EN"
-    },
-{
-        "id": "2a3b4c5d-6e7f-4a9b-0c1d-2e3f4a5b6c7y",
-        "text": "Erfolg ist nicht der Schlüssel zum Glück. Glück ist der Schlüssel zum Erfolg.",
-        "author": "Friedrich Nietzsche",
-        "category": "success",
-        "language": "DE"
-    },
-{
-        "id": "668b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p",
-        "text": "Wisdom doesn't come overnight.",
-        "author": "Confucius",
-        "category": "wisdom",
-        "language": "EN"
-    },
-{
-        "id": "667b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
-        "text": "Change is the law of life.",
-        "author": "Mahatma Gandhi",
-        "category": "life",
-        "language": "EN"
-    },
-{
-        "id": "aa2f3g4h-5i6j-7k8l-9m0n-1o2p3q4r5s6t",
-        "text": "The only way to do great work is to love what you do.",
-        "author": "Mahatma Gandhi",
-        "category": "motivation",
-        "language": "EN"
-    }
+  {
+    "id": "f4c7a8b9-1d2e-4f5a-8b6c-7d8e9f0a1b2c",
+    "text": "Das Leben ist eine Reise, kein Ziel.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "2e1d3c4b-5a6f-4e8d-9c0b-1a2b3c4d5e6f",
+    "text": "Mut ist der erste Schritt zum Erfolg.",
+    "author": "Friedrich Nietzsche",
+    "category": "courage",
+    "language": "DE"
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d0e-1f2a-3b4c5d6e7f8a",
+    "text": "Wissen spricht, aber Weisheit hört zu.",
+    "author": "Albert Einstein",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e1f-2a3b-4c5d6e7f8a9e",
+    "text": "Die Zukunft gehört denen, die an die Schönheit ihrer Träume glauben.",
+    "author": "Anne Frank",
+    "category": "future",
+    "language": "DE"
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f2a-3b4c-5d6e7f8a9b0c",
+    "text": "Freundschaft verdoppelt die Freude und halbiert den Kummer.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "6a7b8c9d-0e1f-4a3b-4c5d-6e7f8a9b0c1d",
+    "text": "Wer kein Ziel hat, kann auch keines erreichen.",
+    "author": "Friedrich Nietzsche",
+    "category": "motivation",
+    "language": "DE"
+  },
+  {
+    "id": "7b8c9d0e-1f2a-4b4c-5d6e-7f8a9b0c1d2e",
+    "text": "Die Bildung ist die mächtigste Waffe, um die Welt zu verändern.",
+    "author": "Albert Einstein",
+    "category": "education",
+    "language": "DE"
+  },
+  {
+    "id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+    "text": "Liebe ist nicht nur ein Gefühl, sie ist eine Kunst.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "9d0e1f2a-3b4c-4d6e-7f8a-9b0c1d2e3f4a",
+    "text": "Das Geheimnis des Glücks liegt nicht im Besitz, sondern im Geben.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "0e1f2a3b-4c5d-4e7f-8a9b-0c1d2e3f4a5b",
+    "text": "Erfolg ist die Summe kleiner Anstrengungen, die Tag für Tag wiederholt werden.",
+    "author": "Friedrich Nietzsche",
+    "category": "success",
+    "language": "DE"
+  },
+  {
+    "id": "1f2a3b4c-5d6e-4f8a-9b0c-1d2e3f4a5b6c",
+    "text": "Die Weisheit des Lebens besteht im Ausschalten der unwesentlichen Dinge.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "2a3b4c5d-6e7f-4a9b-0c1d-2e3f4a5b6c7d",
+    "text": "Ein wahrer Freund ist der, der deine Hand nimmt, aber dein Herz berührt.",
+    "author": "Anne Frank",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "3b4c5d6e-7f8a-4b0c-1d2e-3f4a5b6c7d8e",
+    "text": "Veränderung ist das Gesetz des Lebens.",
+    "author": "Albert Einstein",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "4c5d6e7f-8a9b-4c1d-2e3f-4a5b6c7d8e9f",
+    "text": "Ohne Leidenschaft gibt es keine Genialität.",
+    "author": "Friedrich Nietzsche",
+    "category": "motivation",
+    "language": "DE"
+  },
+  {
+    "id": "5d6e7f8a-9b0c-4d2e-3f4a-5b6c7d8e9f0a",
+    "text": "Die größten Dinge im Leben sind nicht Dinge.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "6e7f8a9b-0c1d-4e3f-4a5b-6c7d8e9f0a1b",
+    "text": "Glaube an Wunder, Liebe und Glück.",
+    "author": "Anne Frank",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "7f8a9b0c-1d2e-4f4a-5b6c-7d8e9f0a1b2c",
+    "text": "Der Schlüssel zum Erfolg ist Geduld.",
+    "author": "Albert Einstein",
+    "category": "success",
+    "language": "DE"
+  },
+  {
+    "id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+    "text": "Jeder Moment ist ein neuer Anfang.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "future",
+    "language": "DE"
+  },
+  {
+    "id": "9b0c1d2e-3f4a-4b6c-7d8e-9f0a1b2c3d4e",
+    "text": "Ohne Bildung gibt es keinen Fortschritt.",
+    "author": "Friedrich Nietzsche",
+    "category": "education",
+    "language": "DE"
+  },
+  {
+    "id": "0c1d2e3f-4a5b-4c7d-8e9f-0a1b2c3d4e5f",
+    "text": "Das Glück ist das einzige, was sich verdoppelt, wenn man es teilt.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "1d2e3f4a-5b6c-4d8e-9f0a-1b2c3d4e5f6a",
+    "text": "Wer nicht wagt, der nicht gewinnt.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "courage",
+    "language": "DE"
+  },
+  {
+    "id": "2e3f4a5b-6c7d-4e9f-0a1b-2c3d4e5f6a7b",
+    "text": "Die Liebe ist der Stoff, den die Natur gewebt und die Fantasie bestickt hat.",
+    "author": "Friedrich Nietzsche",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "3f4a5b6c-7d8e-4f0a-1b2c-3d4e5f6a7b8c",
+    "text": "Das Lernen hört nie auf.",
+    "author": "Albert Einstein",
+    "category": "education",
+    "language": "DE"
+  },
+  {
+    "id": "4a5b6c7d-8e9f-4a1b-2c3d-4e5f6a7b8c9d",
+    "text": "Die Zukunft hängt von dem ab, was wir heute tun.",
+    "author": "Anne Frank",
+    "category": "future",
+    "language": "DE"
+  },
+  {
+    "id": "5b6c7d8e-9f0a-4b2c-3d4e-5f6a7b8c9d0e",
+    "text": "Ein Leben ohne Freude ist wie eine lange Reise ohne Gasthaus.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "6c7d8e9f-0a1b-4c3d-4e5f-6a7b8c9d0e1f",
+    "text": "Der Mut wächst mit dem Herzen.",
+    "author": "Friedrich Nietzsche",
+    "category": "courage",
+    "language": "DE"
+  },
+  {
+    "id": "7d8e9f0a-1b2c-4d4e-5f6a-7b8c9d0e1f2a",
+    "text": "Weisheit beginnt mit Staunen.",
+    "author": "Albert Einstein",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "8e9f0a1b-2c3d-4e5f-6a7b-8c9d0e1f2a3b",
+    "text": "Freunde sind die Familie, die wir uns aussuchen.",
+    "author": "Anne Frank",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "9f0a1b2c-3d4e-4f6a-7b8c-9d0e1f2a3b4c",
+    "text": "Das Leben ist zu kurz für irgendwann.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a7b-8c9d-0e1f2a3b4c5d",
+    "text": "Liebe ist der Beginn aller Wissen.",
+    "author": "Friedrich Nietzsche",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b8c-9d0e-1f2a3b4c5d6e",
+    "text": "Erfolg hat drei Buchstaben: Tun.",
+    "author": "Albert Einstein",
+    "category": "success",
+    "language": "DE"
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c9d-0e1f-2a3b4c5d6e7f",
+    "text": "Glück ist, was passiert, wenn Vorbereitung auf Gelegenheit trifft.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d0e-1f2a-3b4c5d6e7f8b",
+    "text": "Die größte Ehre im Leben liegt nicht darin, nie zu fallen, sondern jedes Mal wieder aufzustehen.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "motivation",
+    "language": "DE"
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e1f-2a3b-4c5d6e7f8a9y",
+    "text": "Bildung ist nicht das Lernen von Fakten, sondern das Training des Geistes zu denken.",
+    "author": "Albert Einstein",
+    "category": "education",
+    "language": "DE"
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f2a-3b4c-5d6e7f8a9b0y",
+    "text": "Die beste Zeit für einen neuen Anfang ist jetzt.",
+    "author": "Friedrich Nietzsche",
+    "category": "future",
+    "language": "DE"
+  },
+  {
+    "id": "6a7b8c9d-0e1f-4a3b-4c5d-6e7f8a9b0c1y",
+    "text": "Das Herz hat Gründe, die der Verstand nicht kennt.",
+    "author": "Anne Frank",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "7b8c9d0e-1f2a-4b4c-5d6e-7f8a9b0c1d2y",
+    "text": "Ohne Mut können wir nichts tun.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "courage",
+    "language": "DE"
+  },
+  {
+    "id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3y",
+    "text": "Weisheit ist das Ergebnis von Erfahrung und Reflektion.",
+    "author": "Friedrich Nietzsche",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "9d0e1f2a-3b4c-4d6e-7f8a-9b0c1d2e3f4y",
+    "text": "Freundschaft ist eine Tür zwischen zwei Menschen.",
+    "author": "Anne Frank",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "0e1f2a3b-4c5d-4e7f-8a9b-0c1d2e3f4a5y",
+    "text": "Das Leben ist kurz, aber es ist breit.",
+    "author": "Albert Einstein",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "1f2a3b4c-5d6e-4f8a-9b0c-1d2e3f4a5b6y",
+    "text": "Liebe ist der Schlüssel zu allem.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "2a3b4c5d-6e7f-4a9b-0c1d-2e3f4a5b6c7y",
+    "text": "Erfolg ist nicht der Schlüssel zum Glück. Glück ist der Schlüssel zum Erfolg.",
+    "author": "Friedrich Nietzsche",
+    "category": "success",
+    "language": "DE"
+  },
+  {
+    "id": "3b4c5d6e-7f8a-4b0c-1d2e-3f4a5b6c7d8z",
+    "text": "Das größte Glück besteht darin, anderen glücklich zu machen.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "4c5d6e7f-8a9b-4c1d-2e3f-4a5b6c7d8e9z",
+    "text": "Mut ist, den nächsten Schritt zu machen, auch wenn die Treppe nicht sichtbar ist.",
+    "author": "Albert Einstein",
+    "category": "courage",
+    "language": "DE"
+  },
+  {
+    "id": "5d6e7f8a-9b0c-4d2e-3f4a-5b6c7d8e9f0x",
+    "text": "Weisheit kommt nicht über Nacht.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "6e7f8a9b-0c1d-4e3f-4a5b-6c7d8e9f0a1y",
+    "text": "Freundschaft ist wie ein Baum, es zählt nicht, wie hoch er ist, sondern wie tief seine Wurzeln reichen.",
+    "author": "Anne Frank",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "7f8a9b0c-1d2e-4f4a-5b6c-7d8e9f0a1b2y",
+    "text": "Das Leben ist das, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
+    "author": "Friedrich Nietzsche",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3y",
+    "text": "Liebe heilt alle Wunden.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "9b0c1d2e-3f4a-4b6c-7d8e-9f0a1b2c3d4h",
+    "text": "Der einzige Weg, großartige Arbeit zu leisten, ist zu lieben, was man tut.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "language": "DE"
+  },
+  {
+    "id": "0c1d2e3f-4a5b-4c7d-8e9f-0a1b2c3d4e5g",
+    "text": "Das Glück kommt zu denen, die lachen.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "aa1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "text": "Life is a journey, not a destination.",
+    "author": "Mark Twain",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "bb2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+    "text": "Courage is the first step to greatness.",
+    "author": "Mahatma Gandhi",
+    "category": "courage",
+    "language": "EN"
+  },
+  {
+    "id": "cc3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+    "text": "Knowledge speaks, but wisdom listens.",
+    "author": "Oscar Wilde",
+    "category": "wisdom",
+    "language": "EN"
+  },
+  {
+    "id": "dd4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "future",
+    "language": "EN"
+  },
+  {
+    "id": "ee5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "text": "Friendship doubles joy and halves sorrow.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "ff6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+    "text": "Without a goal, you can't score.",
+    "author": "Nelson Mandela",
+    "category": "motivation",
+    "language": "EN"
+  },
+  {
+    "id": "001b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "text": "Education is the most powerful weapon to change the world.",
+    "author": "Martin Luther King Jr",
+    "category": "education",
+    "language": "EN"
+  },
+  {
+    "id": "112c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+    "text": "Love is not just a feeling, it's an art.",
+    "author": "William Shakespeare",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "223d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+    "text": "The secret of happiness lies in helping others.",
+    "author": "Mother Teresa",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "334e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+    "text": "Success is the sum of small efforts repeated day in and day out.",
+    "author": "Winston Churchill",
+    "category": "success",
+    "language": "EN"
+  },
+  {
+    "id": "445f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "text": "The wisdom of life consists in the elimination of non-essentials.",
+    "author": "Ralph Waldo Emerson",
+    "category": "wisdom",
+    "language": "EN"
+  },
+  {
+    "id": "556a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+    "text": "A true friend reaches for your hand and touches your heart.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "667b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+    "text": "Change is the law of life.",
+    "author": "Mahatma Gandhi",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "778c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
+    "text": "Without passion, there is no genius.",
+    "author": "Oscar Wilde",
+    "category": "motivation",
+    "language": "EN"
+  },
+  {
+    "id": "889d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+    "text": "The greatest things in life aren't things.",
+    "author": "Mark Twain",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "990e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+    "text": "Believe in miracles, love, and happiness.",
+    "author": "Helen Keller",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "aa0f1a2b-3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+    "text": "The key to success is patience.",
+    "author": "Dalai Lama",
+    "category": "success",
+    "language": "EN"
+  },
+  {
+    "id": "bb1a2b3c-4d5e-6f7g-8h9i-0j1k2l3m4n5o",
+    "text": "Every moment is a fresh beginning.",
+    "author": "Oscar Wilde",
+    "category": "future",
+    "language": "EN"
+  },
+  {
+    "id": "cc2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "text": "Without education, there is no progress.",
+    "author": "Martin Luther King Jr",
+    "category": "education",
+    "language": "EN"
+  },
+  {
+    "id": "dd3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+    "text": "Happiness is the only thing that multiplies when you share it.",
+    "author": "Mother Teresa",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "ee4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+    "text": "Nothing ventured, nothing gained.",
+    "author": "Mark Twain",
+    "category": "courage",
+    "language": "EN"
+  },
+  {
+    "id": "ff5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+    "text": "Love is the fabric of life woven by nature and embroidered by imagination.",
+    "author": "William Shakespeare",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "006f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+    "text": "Learning never exhausts the mind.",
+    "author": "Ralph Waldo Emerson",
+    "category": "education",
+    "language": "EN"
+  },
+  {
+    "id": "117g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+    "text": "The future depends on what we do in the present.",
+    "author": "Mahatma Gandhi",
+    "category": "future",
+    "language": "EN"
+  },
+  {
+    "id": "228h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+    "text": "A life without joy is like a long journey without an inn.",
+    "author": "Confucius",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "339i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+    "text": "Courage grows with the heart.",
+    "author": "Nelson Mandela",
+    "category": "courage",
+    "language": "EN"
+  },
+  {
+    "id": "440j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+    "text": "Wisdom begins in wonder.",
+    "author": "Ralph Waldo Emerson",
+    "category": "wisdom",
+    "language": "EN"
+  },
+  {
+    "id": "551k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+    "text": "Friends are the family we choose for ourselves.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "662l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+    "text": "Life is too short for someday.",
+    "author": "Mark Twain",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "773m4n5o-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+    "text": "Love is the beginning of all knowledge.",
+    "author": "Rumi",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "884n5o6p-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+    "text": "Success has three letters: YES.",
+    "author": "Winston Churchill",
+    "category": "success",
+    "language": "EN"
+  },
+  {
+    "id": "995o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+    "text": "Happiness happens when preparation meets opportunity.",
+    "author": "Eleanor Roosevelt",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "aa6p7q8r-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "motivation",
+    "language": "EN"
+  },
+  {
+    "id": "bb7q8r9s-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+    "text": "Education is not the learning of facts, but the training of the mind to think.",
+    "author": "Mahatma Gandhi",
+    "category": "education",
+    "language": "EN"
+  },
+  {
+    "id": "cc8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+    "text": "The best time for a new beginning is now.",
+    "author": "Dalai Lama",
+    "category": "future",
+    "language": "EN"
+  },
+  {
+    "id": "dd9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+    "text": "The heart has its reasons which reason knows not.",
+    "author": "Helen Keller",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "ee0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+    "text": "Without courage, we can do nothing.",
+    "author": "Martin Luther King Jr",
+    "category": "courage",
+    "language": "EN"
+  },
+  {
+    "id": "ff1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+    "text": "Wisdom is the result of experience and reflection.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "language": "EN"
+  },
+  {
+    "id": "002v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+    "text": "Friendship is a door between two people.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "113w4x5y-6z7a-8b9c-0d1e-2f3g4h5i6j7k",
+    "text": "Life is short, but it is wide.",
+    "author": "Mark Twain",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "224x5y6z-7a8b-9c0d-1e2f-3g4h5i6j7k8l",
+    "text": "Love is the key to everything.",
+    "author": "Rumi",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "335y6z7a-8b9c-0d1e-2f3g-4h5i6j7k8l9m",
+    "text": "Success is not the key to happiness. Happiness is the key to success.",
+    "author": "Mother Teresa",
+    "category": "success",
+    "language": "EN"
+  },
+  {
+    "id": "446z7a8b-9c0d-1e2f-3g4h-5i6j7k8l9m0n",
+    "text": "The greatest happiness comes from making others happy.",
+    "author": "Helen Keller",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "557a8b9c-0d1e-2f3g-4h5i-6j7k8l9m0n1o",
+    "text": "Courage is taking the next step even when you can't see the staircase.",
+    "author": "Martin Luther King Jr",
+    "category": "courage",
+    "language": "EN"
+  },
+  {
+    "id": "668b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p",
+    "text": "Wisdom doesn't come overnight.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "language": "EN"
+  },
+  {
+    "id": "779c0d1e-2f3g-4h5i-6j7k-8l9m0n1o2p3q",
+    "text": "Friendship is like a tree; it doesn't matter how tall it is, but how deep the roots are.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "880d1e2f-3g4h-5i6j-7k8l-9m0n1o2p3q4r",
+    "text": "Life is what happens when you're busy making other plans.",
+    "author": "Mark Twain",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "991e2f3g-4h5i-6j7k-8l9m-0n1o2p3q4r5s",
+    "text": "Love heals all wounds.",
+    "author": "Rumi",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "aa2f3g4h-5i6j-7k8l-9m0n-1o2p3q4r5s6t",
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Mahatma Gandhi",
+    "category": "motivation",
+    "language": "EN"
+  },
+  {
+    "id": "bb3g4h5i-6j7k-8l9m-0n1o-2p3q4r5s6t7u",
+    "text": "Happiness comes to those who laugh.",
+    "author": "Eleanor Roosevelt",
+    "category": "happiness",
+    "language": "EN"
+  }
 ]
-
