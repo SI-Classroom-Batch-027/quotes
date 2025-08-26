@@ -1,0 +1,72 @@
+[
+  {
+    "id": "3d4e5f6a-7b8c-4d0e-1f2a-3b4c5d6e7f8a",
+    "text": "Wissen spricht, aber Weisheit hört zu.",
+    "author": "Albert Einstein",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "1f2a3b4c-5d6e-4f8a-9b0c-1d2e3f4a5b6c",
+    "text": "Die Weisheit des Lebens besteht im Ausschalten der unwesentlichen Dinge.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "7d8e9f0a-1b2c-4d4e-5f6a-7b8c9d0e1f2a",
+    "text": "Weisheit beginnt mit Staunen.",
+    "author": "Albert Einstein",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3y",
+    "text": "Weisheit ist das Ergebnis von Erfahrung und Reflektion.",
+    "author": "Friedrich Nietzsche",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "5d6e7f8a-9b0c-4d2e-3f4a-5b6c7d8e9f0x",
+    "text": "Weisheit kommt nicht über Nacht.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "cc3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+    "text": "Knowledge speaks, but wisdom listens.",
+    "author": "Oscar Wilde",
+    "category": "wisdom",
+    "language": "EN"
+  },
+  {
+    "id": "445f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "text": "The wisdom of life consists in the elimination of non-essentials.",
+    "author": "Ralph Waldo Emerson",
+    "category": "wisdom",
+    "language": "EN"
+  },
+  {
+    "id": "440j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+    "text": "Wisdom begins in wonder.",
+    "author": "Ralph Waldo Emerson",
+    "category": "wisdom",
+    "language": "EN"
+  },
+  {
+    "id": "ff1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+    "text": "Wisdom is the result of experience and reflection.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "language": "EN"
+  },
+  {
+    "id": "668b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p",
+    "text": "Wisdom doesn't come overnight.",
+    "author": "Confucius",
+    "category": "wisdom",
+    "language": "EN"
+  }
+]
