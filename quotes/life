@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5d6e7f8a-9b0c-4d2e-3f4a-5b6c7d8e9f0a",
+    "text": "Die größten Dinge im Leben sind nicht Dinge.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "aa1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "text": "Life is a journey, not a destination.",
+    "author": "Mark Twain",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "113w4x5y-6z7a-8b9c-0d1e-2f3g4h5i6j7k",
+    "text": "Life is short, but it is wide.",
+    "author": "Mark Twain",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "662l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+    "text": "Life is too short for someday.",
+    "author": "Mark Twain",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "f4c7a8b9-1d2e-4f5a-8b6c-7d8e9f0a1b2c",
+    "text": "Das Leben ist eine Reise, kein Ziel.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "3b4c5d6e-7f8a-4b0c-1d2e-3f4a5b6c7d8e",
+    "text": "Veränderung ist das Gesetz des Lebens.",
+    "author": "Albert Einstein",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "667b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+    "text": "Change is the law of life.",
+    "author": "Mahatma Gandhi",
+    "category": "life",
+    "language": "EN"
+  },
+  {
+    "id": "7f8a9b0c-1d2e-4f4a-5b6c-7d8e9f0a1b2y",
+    "text": "Das Leben ist das, was passiert, während du eifrig dabei bist, andere Pläne zu machen.",
+    "author": "Friedrich Nietzsche",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "9f0a1b2c-3d4e-4f6a-7b8c-9d0e1f2a3b4c",
+    "text": "Das Leben ist zu kurz für irgendwann.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "889d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+    "text": "The greatest things in life aren't things.",
+    "author": "Mark Twain",
+    "category": "life",
+    "language": "EN"
+  }
+]
