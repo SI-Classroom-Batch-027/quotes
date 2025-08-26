@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5f6a7b8c-9d0e-4f2a-3b4c-5d6e7f8a9b0c",
+    "text": "Freundschaft verdoppelt die Freude und halbiert den Kummer.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "2a3b4c5d-6e7f-4a9b-0c1d-2e3f4a5b6c7d",
+    "text": "Ein wahrer Freund ist der, der deine Hand nimmt, aber dein Herz berührt.",
+    "author": "Anne Frank",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "8e9f0a1b-2c3d-4e5f-6a7b-8c9d0e1f2a3b",
+    "text": "Freunde sind die Familie, die wir uns aussuchen.",
+    "author": "Anne Frank",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "9d0e1f2a-3b4c-4d6e-7f8a-9b0c1d2e3f4y",
+    "text": "Freundschaft ist eine Tür zwischen zwei Menschen.",
+    "author": "Anne Frank",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "6e7f8a9b-0c1d-4e3f-4a5b-6c7d8e9f0a1y",
+    "text": "Freundschaft ist wie ein Baum, es zählt nicht, wie hoch er ist, sondern wie tief seine Wurzeln reichen.",
+    "author": "Anne Frank",
+    "category": "friendship",
+    "language": "DE"
+  },
+  {
+    "id": "ee5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "text": "Friendship doubles joy and halves sorrow.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "556a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+    "text": "A true friend reaches for your hand and touches your heart.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "551k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+    "text": "Friends are the family we choose for ourselves.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "002v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+    "text": "Friendship is a door between two people.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "779c0d1e-2f3g-4h5i-6j7k-8l9m0n1o2p3q",
+    "text": "Friendship is like a tree; it doesn't matter how tall it is, but how deep the roots are.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  }
+]
