@@ -1,0 +1,86 @@
+[
+  {
+    "id": "9d0e1f2a-3b4c-4d6e-7f8a-9b0c1d2e3f4a",
+    "text": "Das Geheimnis des Glücks liegt nicht im Besitz, sondern im Geben.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "0c1d2e3f-4a5b-4c7d-8e9f-0a1b2c3d4e5f",
+    "text": "Das Glück ist das einzige, was sich verdoppelt, wenn man es teilt.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "5b6c7d8e-9f0a-4b2c-3d4e-5f6a7b8c9d0e",
+    "text": "Ein Leben ohne Freude ist wie eine lange Reise ohne Gasthaus.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c9d-0e1f-2a3b4c5d6e7f",
+    "text": "Glück ist, was passiert, wenn Vorbereitung auf Gelegenheit trifft.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "3b4c5d6e-7f8a-4b0c-1d2e-3f4a5b6c7d8z",
+    "text": "Das größte Glück besteht darin, anderen glücklich zu machen.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "0c1d2e3f-4a5b-4c7d-8e9f-0a1b2c3d4e5g",
+    "text": "Das Glück kommt zu denen, die lachen.",
+    "author": "Anne Frank",
+    "category": "happiness",
+    "language": "DE"
+  },
+  {
+    "id": "223d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+    "text": "The secret of happiness lies in helping others.",
+    "author": "Mother Teresa",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "dd3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+    "text": "Happiness is the only thing that multiplies when you share it.",
+    "author": "Mother Teresa",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "228h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+    "text": "A life without joy is like a long journey without an inn.",
+    "author": "Confucius",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "995o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+    "text": "Happiness happens when preparation meets opportunity.",
+    "author": "Eleanor Roosevelt",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "446z7a8b-9c0d-1e2f-3g4h-5i6j7k8l9m0n",
+    "text": "The greatest happiness comes from making others happy.",
+    "author": "Helen Keller",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "bb3g4h5i-6j7k-8l9m-0n1o-2p3q4r5s6t7u",
+    "text": "Happiness comes to those who laugh.",
+    "author": "Eleanor Roosevelt",
+    "category": "happiness",
+    "language": "EN"
+  }
+]
