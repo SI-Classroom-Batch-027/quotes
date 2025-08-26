@@ -1,0 +1,72 @@
+[
+  {
+    "id": "6a7b8c9d-0e1f-4a3b-4c5d-6e7f8a9b0c1y",
+    "text": "Das Herz hat Gründe, die der Verstand nicht kennt.",
+    "author": "Anne Frank",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+    "text": "Liebe ist nicht nur ein Gefühl, sie ist eine Kunst.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "ff5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+    "text": "Love is the fabric of life woven by nature and embroidered by imagination.",
+    "author": "William Shakespeare",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "990e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+    "text": "Believe in miracles, love, and happiness.",
+    "author": "Helen Keller",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "224x5y6z-7a8b-9c0d-1e2f-3g4h5i6j7k8l",
+    "text": "Love is the key to everything.",
+    "author": "Rumi",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "112c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+    "text": "Love is not just a feeling, it's an art.",
+    "author": "William Shakespeare",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3y",
+    "text": "Liebe heilt alle Wunden.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "dd9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+    "text": "The heart has its reasons which reason knows not.",
+    "author": "Helen Keller",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "2e3f4a5b-6c7d-4e9f-0a1b-2c3d4e5f6a7b",
+    "text": "Die Liebe ist der Stoff, den die Natur gewebt und die Fantasie bestickt hat.",
+    "author": "Friedrich Nietzsche",
+    "category": "love",
+    "language": "DE"
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a7b-8c9d-0e1f2a3b4c5d",
+    "text": "Liebe ist der Beginn aller Wissen.",
+    "author": "Friedrich Nietzsche",
+    "category": "love",
+    "language": "DE"
+  }
+]
