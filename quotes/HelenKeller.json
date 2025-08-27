@@ -1,0 +1,23 @@
+[
+  {
+    "id": "990e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+    "text": "Believe in miracles, love, and happiness.",
+    "author": "Helen Keller",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "dd9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+    "text": "The heart has its reasons which reason knows not.",
+    "author": "Helen Keller",
+    "category": "love",
+    "language": "EN"
+  },
+  {
+    "id": "446z7a8b-9c0d-1e2f-3g4h-5i6j7k8l9m0n",
+    "text": "The greatest happiness comes from making others happy.",
+    "author": "Helen Keller",
+    "category": "happiness",
+    "language": "EN"
+  }
+]
