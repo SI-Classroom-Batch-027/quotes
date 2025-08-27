@@ -1,1 +1,97 @@
-
+[
+    {
+        "id": "c1e74a21-7e29-4c8e-a6c5-6edc4234b6a3",
+        "name": "Albert Einstein",
+        "slug": "albert-einstein"
+    },
+    {
+        "id": "6e6b9f8c-58b5-4e62-bac8-2d1e0b565912",
+        "name": "Mark Twain",
+        "slug": "mark-twain"
+    },
+    {
+        "id": "8e2f2d4d-9340-4126-b0c8-23a7e6f7bf3e",
+        "name": "Johann Wolfgang von Goethe",
+        "slug": "johann-wolfgang-von-goethe"
+    },
+    {
+        "id": "3a6fdc77-79b6-4695-8f70-128c8c63e8df",
+        "name": "Friedrich Nietzsche",
+        "slug": "friedrich-nietzsche"
+    },
+    {
+        "id": "a5e7f20a-2576-4569-9c6d-fbdf3d81e78d",
+        "name": "Helen Keller",
+        "slug": "helen-keller"
+    },
+    {
+        "id": "e9b53a55-2b0a-482a-b0ed-fafbf7f769b3",
+        "name": "Mahatma Gandhi",
+        "slug": "mahatma-gandhi"
+    },
+    {
+        "id": "b4f0d55f-2988-416e-836e-638f16db7776",
+        "name": "Maya Angelou",
+        "slug": "maya-angelou"
+    },
+    {
+        "id": "73f85f3e-1f8b-4787-9ef8-263b6b6b2c1a",
+        "name": "Oscar Wilde",
+        "slug": "oscar-wilde"
+    },
+    {
+        "id": "f8e573d2-b28a-4e7a-8d7c-45a9a7c3eac3",
+        "name": "Confucius",
+        "slug": "confucius"
+    },
+    {
+        "id": "5a99c3b6-7dca-41b0-9219-b1d27eaa82d3",
+        "name": "Ralph Waldo Emerson",
+        "slug": "ralph-waldo-emerson"
+    },
+    {
+        "id": "72a2a4e2-7a1c-49a3-b4f5-71667c0b6a87",
+        "name": "Rumi",
+        "slug": "rumi"
+    },
+    {
+        "id": "0e38dbd7-d0da-4260-a31f-ef841af3a85d",
+        "name": "William Shakespeare",
+        "slug": "william-shakespeare"
+    },
+    {
+        "id": "c236bf86-1f6e-4af0-94e8-8bdcfba7a2f4",
+        "name": "Mother Teresa",
+        "slug": "mother-teresa"
+    },
+    {
+        "id": "f7bf45b8-40a0-4816-b8b6-6349fae4e2f6",
+        "name": "Nelson Mandela",
+        "slug": "nelson-mandela"
+    },
+    {
+        "id": "85d13e3f-f3d6-4d14-9576-feb87b6fdb3f",
+        "name": "Eleanor Roosevelt",
+        "slug": "eleanor-roosevelt"
+    },
+    {
+        "id": "7c9a76b2-9391-4c13-b2ef-e945efc6d1c3",
+        "name": "Martin Luther King Jr.",
+        "slug": "martin-luther-king-jr"
+    },
+    {
+        "id": "28d8e938-e0b3-4f1f-bb19-52a2d06bbdd4",
+        "name": "Anne Frank",
+        "slug": "anne-frank"
+    },
+    {
+        "id": "3e7a3c9a-34c8-4f76-8a5e-8b0d9ccf659a",
+        "name": "Winston Churchill",
+        "slug": "winston-churchill"
+    },
+    {
+        "id": "0e97a908-1c89-4174-92ed-0f2f0e99e264",
+        "name": "Dalai Lama",
+        "slug": "dalai-lama"
+    }
+]
