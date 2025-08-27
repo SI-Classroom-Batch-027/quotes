@@ -1,0 +1,30 @@
+[
+  {
+    "id": "001b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "text": "Education is the most powerful weapon to change the world.",
+    "author": "Martin Luther King Jr",
+    "category": "education",
+    "language": "EN"
+  },
+  {
+    "id": "cc2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "text": "Without education, there is no progress.",
+    "author": "Martin Luther King Jr",
+    "category": "education",
+    "language": "EN"
+  },
+  {
+    "id": "ee0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+    "text": "Without courage, we can do nothing.",
+    "author": "Martin Luther King Jr",
+    "category": "courage",
+    "language": "EN"
+  },
+  {
+    "id": "557a8b9c-0d1e-2f3g-4h5i-6j7k8l9m0n1o",
+    "text": "Courage is taking the next step even when you can't see the staircase.",
+    "author": "Martin Luther King Jr",
+    "category": "courage",
+    "language": "EN"
+  }
+]
