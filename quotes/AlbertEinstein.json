@@ -1,0 +1,79 @@
+[
+  {
+    "id": "3d4e5f6a-7b8c-4d0e-1f2a-3b4c5d6e7f8a",
+    "text": "Wissen spricht, aber Weisheit hört zu.",
+    "author": "Albert Einstein",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "7b8c9d0e-1f2a-4b4c-5d6e-7f8a9b0c1d2e",
+    "text": "Die Bildung ist die mächtigste Waffe, um die Welt zu verändern.",
+    "author": "Albert Einstein",
+    "category": "education",
+    "language": "DE"
+  },
+  {
+    "id": "3b4c5d6e-7f8a-4b0c-1d2e-3f4a5b6c7d8e",
+    "text": "Veränderung ist das Gesetz des Lebens.",
+    "author": "Albert Einstein",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "7f8a9b0c-1d2e-4f4a-5b6c-7d8e9f0a1b2c",
+    "text": "Der Schlüssel zum Erfolg ist Geduld.",
+    "author": "Albert Einstein",
+    "category": "success",
+    "language": "DE"
+  },
+  {
+    "id": "3f4a5b6c-7d8e-4f0a-1b2c-3d4e5f6a7b8c",
+    "text": "Das Lernen hört nie auf.",
+    "author": "Albert Einstein",
+    "category": "education",
+    "language": "DE"
+  },
+  {
+    "id": "7d8e9f0a-1b2c-4d4e-5f6a-7b8c9d0e1f2a",
+    "text": "Weisheit beginnt mit Staunen.",
+    "author": "Albert Einstein",
+    "category": "wisdom",
+    "language": "DE"
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b8c-9d0e-1f2a3b4c5d6e",
+    "text": "Erfolg hat drei Buchstaben: Tun.",
+    "author": "Albert Einstein",
+    "category": "success",
+    "language": "DE"
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e1f-2a3b-4c5d6e7f8a9y",
+    "text": "Bildung ist nicht das Lernen von Fakten, sondern das Training des Geistes zu denken.",
+    "author": "Albert Einstein",
+    "category": "education",
+    "language": "DE"
+  },
+  {
+    "id": "0e1f2a3b-4c5d-4e7f-8a9b-0c1d2e3f4a5y",
+    "text": "Das Leben ist kurz, aber es ist breit.",
+    "author": "Albert Einstein",
+    "category": "life",
+    "language": "DE"
+  },
+  {
+    "id": "4c5d6e7f-8a9b-4c1d-2e3f-4a5b6c7d8e9z",
+    "text": "Mut ist, den nächsten Schritt zu machen, auch wenn die Treppe nicht sichtbar ist.",
+    "author": "Albert Einstein",
+    "category": "courage",
+    "language": "DE"
+  },
+  {
+    "id": "9b0c1d2e-3f4a-4b6c-7d8e-9f0a1b2c3d4h",
+    "text": "Der einzige Weg, großartige Arbeit zu leisten, ist zu lieben, was man tut.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "language": "DE"
+  }
+]
