@@ -1,0 +1,23 @@
+[
+  {
+    "id": "dd4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "future",
+    "language": "EN"
+  },
+  {
+    "id": "995o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+    "text": "Happiness happens when preparation meets opportunity.",
+    "author": "Eleanor Roosevelt",
+    "category": "happiness",
+    "language": "EN"
+  },
+  {
+    "id": "bb3g4h5i-6j7k-8l9m-0n1o-2p3q4r5s6t7u",
+    "text": "Happiness comes to those who laugh.",
+    "author": "Eleanor Roosevelt",
+    "category": "happiness",
+    "language": "EN"
+  }
+]
