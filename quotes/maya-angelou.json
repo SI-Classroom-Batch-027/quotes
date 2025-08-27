@@ -1,1 +1,37 @@
-
+[
+  {
+    "id": "ee5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "text": "Friendship doubles joy and halves sorrow.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "556a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+    "text": "A true friend reaches for your hand and touches your heart.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "551k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+    "text": "Friends are the family we choose for ourselves.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "002v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+    "text": "Friendship is a door between two people.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  },
+  {
+    "id": "779c0d1e-2f3g-4h5i-6j7k-8l9m0n1o2p3q",
+    "text": "Friendship is like a tree; it doesn't matter how tall it is, but how deep the roots are.",
+    "author": "Maya Angelou",
+    "category": "friendship",
+    "language": "EN"
+  }
+]
